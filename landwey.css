@@ -1,0 +1,142 @@
+
+body{
+  width: 100%;
+  height: 100vh;
+  padding: 0%; 
+  margin: 0%;
+  background-color: rgb(242, 242, 242,0.75);
+
+}
+
+.landwey{
+    height: 50px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: none;
+} 
+.container{
+    background-color: #fff;
+    border: 20px solid transparent;
+    height: 1600px;
+    margin-top: -20px;
+}
+.heading{
+    width: 96.5%;
+    height: 100px;
+    border: 1px solid transparent;
+    gap: 50px;
+    display: flex;
+    box-shadow: 0 ,5px ,5px ,5px;
+    border-top: 20px;
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 5px 5px 5px;
+    
+}
+.home,a{
+    text-decoration: none;
+    margin-left: 80px;
+    margin-top: 20px;
+    color: #000;
+    font-size: 12px;
+    font-weight: 600px;
+    display: flex;
+}
+:hover .a{
+    color: #fa6400;
+}
+.land{
+    color: #fff;
+    padding: 20px;
+    background-color:#fa6400 ;
+    width: 150px;
+    height: 35px;
+    border-radius: 5px;
+    margin-top: 30px;
+    text-align: center;
+    border: none;
+
+}
+.head{
+    margin-top: 15%;
+    text-align: center;
+}
+.h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.im{
+    border:1px solid transparent ;
+width:500px ;
+ height:1000px;
+margin-top:20% ;
+margin-left:50px ;
+border-top-right-radius:20px ;
+border-top-left-radius:20px ;
+margin-bottom:210px;
+border-bottom-left-radius:5px ;
+border-bottom-right-radius:5px; 
+background-color:rgba(242, 242, 242, 0.90) ;
+  
+}
+.ims{
+    width: 500px;
+    height: 500px;
+    border-top-right-radius: 20px; 
+    border-bottom-left-radius: 20px;
+}
+.h2{
+margin-left: 10px;
+
+}
+.p1{
+margin-left: 10px;
+background-color: rgb(234, 91, 12);
+color: #fff;
+width: 300px;
+padding: 10px;
+}
+.ws{
+    display: flex;
+    justify-content: space-evenly;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-right: 20px;
+    font-size: 14px;
+}
+.terra{
+display: flex;
+justify-content: space-between;
+}
+.img1{
+    border-radius: 10px;
+}
+.img2{
+    border-radius: 10px;
+}
+.img3{
+    border-radius: 10px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+
+}
+.btn2{
+    padding: 10px;
+    margin-top: 50px;
+    width: 90px;
+    height: 30px;
+    border-radius: 15px;
+    text-align: center;
+    color: #fff;
+    background-color: #fa6400;
+    border: none;
+    margin-right: 50px;
+}
+
+    
